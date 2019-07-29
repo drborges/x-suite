@@ -1,0 +1,13 @@
+{
+  "name": "x-suite",
+  "version": "1.0.0",
+  "author": "Diego Borges <drborges.cic@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "apps/*"
+  ],
+  "engines": {
+    "node": ">=9.10.0"
+ }
+}
