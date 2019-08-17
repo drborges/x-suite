@@ -1,4 +1,4 @@
-import { createStore } from "./redux"
+import { createStore } from "."
 import { addTodo, removeTodo, toggleTodo } from "./entities/todos/actions"
 import { addUser, patchUser, removeUser } from "./entities/users/actions"
 
